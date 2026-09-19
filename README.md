@@ -110,9 +110,9 @@ Each AI response is scored on 5 parameters (0-10 each):
 
 ## Author
 
-**Akshobhya Pranesh Pappu**
-MCA Final Year | NMIT Bengaluru | Aspiring Data Analyst & Prompt Engineer
-[GitHub](https://github.com/Akshobhya118) | akshobhya2003@gmail.com
+**NALLAIAH GARI YUVARANI**
+MCA Final Year | SRMIST Chennai | Aspiring Data Analyst & Prompt Engineer
+nallaiahgariyuvarani@gmail.com
 
 ---
 
