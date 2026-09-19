@@ -1,0 +1,42 @@
+Prompt_ID,Category,Prompt_Summary,LLM_Tested,Accuracy,Relevance,Tone,Coherence,Completeness,Total_Score,Grade,Best_Performer,Notes
+DA001,Data Cleaning,Clean CSV with missing values and duplicates,ChatGPT,9,9,8,9,9,44,A,Claude AI,Claude provided cleaner code with better comments
+DA001,Data Cleaning,Clean CSV with missing values and duplicates,Claude AI,10,10,9,10,10,49,A+,Claude AI,Best overall response with detailed explanation
+DA002,Data Cleaning,Handle outliers using IQR method,ChatGPT,10,10,9,9,10,48,A+,ChatGPT,Most accurate IQR implementation
+DA002,Data Cleaning,Handle outliers using IQR method,Claude AI,9,10,9,10,9,47,A+,ChatGPT,Slightly less detailed but still excellent
+DA002,Data Cleaning,Handle outliers using IQR method,GitHub Copilot,8,9,8,8,8,41,A,ChatGPT,Good code but missing explanation
+DA003,Data Cleaning,Convert date string to datetime format,ChatGPT,9,10,9,9,9,46,A+,Claude AI,Good response but missed some edge cases
+DA003,Data Cleaning,Convert date string to datetime format,Claude AI,10,10,9,10,10,49,A+,Claude AI,Complete solution with edge case handling
+DA004,EDA,EDA on sales dataset with visualizations,ChatGPT,9,9,8,9,9,44,A,Claude AI,Good but incomplete visualization code
+DA004,EDA,EDA on sales dataset with visualizations,Claude AI,10,10,9,10,10,49,A+,Claude AI,Complete EDA with all required visualizations
+DA005,EDA,Traffic data pattern analysis,ChatGPT,9,10,9,9,9,46,A+,Claude AI,Strong response with good code structure
+DA005,EDA,Traffic data pattern analysis,Claude AI,10,10,9,10,10,49,A+,Claude AI,Best response with local context awareness
+DA006,EDA,RFM customer segmentation analysis,ChatGPT,10,10,9,10,10,49,A+,ChatGPT,Excellent RFM implementation with clear explanation
+DA006,EDA,RFM customer segmentation analysis,Claude AI,9,10,9,9,9,46,A+,ChatGPT,Good but less detailed than ChatGPT
+DA007,SQL,CTE query for top congested roads,ChatGPT,9,10,8,9,9,45,A+,Claude AI,Good SQL but less optimized
+DA007,SQL,CTE query for top congested roads,Claude AI,10,10,9,10,10,49,A+,Claude AI,Best SQL with proper optimization
+DA007,SQL,CTE query for top congested roads,GitHub Copilot,8,9,8,8,8,41,A,Claude AI,Functional but basic implementation
+DA008,SQL,Month-over-month revenue with LAG,ChatGPT,10,10,9,10,10,49,A+,ChatGPT,Perfect LAG implementation with clear explanation
+DA008,SQL,Month-over-month revenue with LAG,Claude AI,9,10,9,9,9,46,A+,ChatGPT,Good but slightly different approach
+DA009,SQL,Subquery for above-average orders,ChatGPT,9,10,9,9,9,46,A+,GitHub Copilot,Good subquery implementation
+DA009,SQL,Subquery for above-average orders,Claude AI,9,10,9,9,9,46,A+,GitHub Copilot,Similar quality to ChatGPT
+DA009,SQL,Subquery for above-average orders,GitHub Copilot,10,10,9,10,10,49,A+,GitHub Copilot,Best and most concise implementation
+DA010,Visualization,Power BI KPI suggestions,ChatGPT,9,9,9,9,9,45,A+,Claude AI,Good suggestions but less detailed
+DA010,Visualization,Power BI KPI suggestions,Claude AI,10,10,9,10,10,49,A+,Claude AI,Excellent with detailed justification
+DA011,Visualization,Grouped bar chart with Matplotlib,ChatGPT,9,10,9,9,9,46,A+,Claude AI,Good code but basic styling
+DA011,Visualization,Grouped bar chart with Matplotlib,Claude AI,10,10,9,10,10,49,A+,Claude AI,Professional styling with best practices
+DA012,Visualization,Correlation heatmap with Seaborn,ChatGPT,9,10,9,9,9,46,A+,GitHub Copilot,Good but missing some customization
+DA012,Visualization,Correlation heatmap with Seaborn,Claude AI,9,10,9,9,9,46,A+,GitHub Copilot,Similar quality to ChatGPT
+DA012,Visualization,Correlation heatmap with Seaborn,GitHub Copilot,10,10,10,10,10,50,A+,GitHub Copilot,Perfect implementation with all customizations
+CG001,Content Generation,LinkedIn post for data project,ChatGPT,9,9,9,9,9,45,A+,Claude AI,Good but slightly generic tone
+CG001,Content Generation,LinkedIn post for data project,Claude AI,10,10,10,10,10,50,A+,Claude AI,Perfect tone and engagement
+CG002,Content Generation,GitHub README writing,ChatGPT,9,9,9,9,9,45,A+,Claude AI,Good structure but missing some sections
+CG002,Content Generation,GitHub README writing,Claude AI,10,10,9,10,10,49,A+,Claude AI,Complete README with all sections
+CG003,Content Generation,Professional email to hiring manager,ChatGPT,10,10,10,10,10,50,A+,ChatGPT,Perfect professional tone
+CG003,Content Generation,Professional email to hiring manager,Claude AI,9,10,9,9,9,46,A+,ChatGPT,Good but slightly formal
+CD001,Coding,Reusable data cleaning function,ChatGPT,9,10,9,9,9,46,A+,GitHub Copilot,Good function but less optimized
+CD001,Coding,Reusable data cleaning function,Claude AI,9,10,9,10,9,47,A+,GitHub Copilot,Clean code with good documentation
+CD001,Coding,Reusable data cleaning function,GitHub Copilot,10,10,9,10,10,49,A+,GitHub Copilot,Best implementation with type hints
+CD002,Coding,Automated EDA report script,ChatGPT,9,9,8,9,9,44,A,Claude AI,Good but missing some EDA components
+CD002,Coding,Automated EDA report script,Claude AI,10,10,9,10,10,49,A+,Claude AI,Complete EDA automation script
+CD006,Coding,Complex SQL JOIN query,ChatGPT,9,10,9,9,9,46,A+,Claude AI,Good JOIN but less optimized
+CD006,Coding,Complex SQL JOIN query,Claude AI,10,10,9,10,10,49,A+,Claude AI,Best optimized JOIN with window functions
